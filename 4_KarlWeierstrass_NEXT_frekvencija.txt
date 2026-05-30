@@ -1,0 +1,98 @@
+4_KarlWeierstrass_NEXT_frekvencija
+============================================================
+
+Izvor: 8 NEXT TXT fajlova (placeholder (1,2,3,4,5,6,7) izbacen).
+
+Kombinacije po fajlu:
+------------------------------------------------------------
+NEXT1  [3_KarlWeierstrass_NEXT1_2a3b.txt]  combos: 4  OK
+    (1, x, 13, y, 31, z, 39)
+    (2, x, 14, y, 25, z, 39)
+    (3, x, 9, y, 23, z, 37)
+    (4, x, 19, y, 23, z, 32)
+
+NEXT2  [3_KarlWeierstrass_NEXT2_2a3c.txt]  combos: 4  OK
+    (1, x, 12, y, 16, z, 39)
+    (1, x, 11, y, 22, z, 32)
+    (3, x, 23, y, 29, z, 37)
+    (5, x, 16, y, 29, z, 37)
+
+NEXT3  [3_KarlWeierstrass_NEXT3_2a3d.txt]  combos: 4  OK
+    (2, x, 4, y, 11, z, 25)
+    (2, x, 5, y, 20, z, 26)
+    (4, x, 13, y, 22, z, 34)
+    (6, x, 17, y, 21, z, 34)
+
+NEXT4  [3_KarlWeierstrass_NEXT4_2a3e.txt]  combos: 6  OK
+    (3, x, 21, y, 26, z, 33)
+    (1, x, 15, y, 18, z, 37)
+    (2, x, 12, y, 21, z, 38)
+    (4, x, 6, y, 24, z, 31)
+    (6, x, 11, y, 23, z, 26)
+    (7, x, 20, y, 24, z, 32)
+
+NEXT5  [3_KarlWeierstrass_NEXT5_2b3a.txt]  combos: 3  OK
+    (1, x, 6, y, 27, z, 38)
+    (1, x, 23, y, 25, z, 38)
+    (2, x, 13, y, 28, z, 38)
+
+NEXT6  [3_KarlWeierstrass_NEXT6_2b3b.txt]  combos: 3  OK
+    (1, x, 6, y, 15, z, 27)
+    (1, x, 25, y, 31, z, 34)
+    (2, x, 21, y, 34, z, 36)
+
+NEXT7  [3_KarlWeierstrass_NEXT7_2b3e.txt]  combos: 3  OK
+    (1, x, 16, y, 21, z, 36)
+    (2, x, 11, y, 27, z, 36)
+    (4, x, 9, y, 14, z, 25)
+
+NEXT8  [3_KarlWeierstrass_NEXT8_2c3b.txt]  combos: 3  OK
+    (1, x, 14, y, 18, z, 26)
+    (2, x, 19, y, 29, z, 37)
+    (4, x, 13, y, 16, z, 35)
+
+------------------------------------------------------------
+UKUPNO jedinstvenih kombinacija (bez placeholder-a): 30
+
+Frekvencija pojavljivanja brojeva 1..39 (sort: count desc, broj desc):
+------------------------------------------------------------
+  rang    broj     count
+  1         25        12
+  2          z        10
+  3         21         9
+  4          z         9
+  5          4         8
+  6          z         8
+  7         32         7
+  8         23         7
+  9         20         7
+  10        16         7
+  11        37         6
+  12        24         6
+  13        19         6
+  14        15         6
+  15        13         6
+  16        11         6
+  17        38         5
+  18        34         5
+  19        31         5
+  20        29         5
+  21        28         5
+  22        10         5
+  23         5         5
+  24         3         5
+  25        35         4
+  26        27         4
+  27        26         4
+  28        22         4
+  29        18         4
+  30        17         4
+  31         7         4
+  32        39         3
+  33        36         3
+  34        14         3
+  35        12         3
+  36         9         3
+  37         8         3
+  38        33         2
+  39        30         2
