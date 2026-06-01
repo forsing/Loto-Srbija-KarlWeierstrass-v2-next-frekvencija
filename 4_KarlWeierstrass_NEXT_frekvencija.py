@@ -303,4 +303,11 @@ Frekvencija pojavljivanja brojeva 1..39 (sort: count desc, broj desc):
 TXT saved -> /4_KarlWeierstrass_NEXT_frekvencija.txt
 
 PNG saved -> /4_KarlWeierstrass_NEXT_frekvencija.png
+
+
+
+
+Uzmem prvih 13 brojeva i igram ih sa mojim skracenim sistemom: 
+13 brojeva       garancija 5 od 7       10 kombinacija
+
 """
