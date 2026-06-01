@@ -96,3 +96,7 @@ Frekvencija pojavljivanja brojeva 1..39 (sort: count desc, broj desc):
   37         8         3
   38        33         2
   39        30         2
+
+
+Uzmem prvih 13 brojeva i igram ih sa mojim skracenim sistemom: 
+13 brojeva       garancija 5 od 7       10 kombinacija
